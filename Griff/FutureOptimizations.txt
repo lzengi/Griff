@@ -1,0 +1,3 @@
+﻿1. The binary tree of FastMap could be optimized by putting the most used squares at the top of the tree (for this we could check if the square is in the list of frequently used squares (with a bitboard!))
+2. InspectCandidate() is faster if contents are not in a method
+3. Making objects, members readonly might help

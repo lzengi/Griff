@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Griff", "Griff\Griff.csproj", "{92C69F46-F8C5-4DA0-AEC2-0C5389913962}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMR", "BMR\BMR.csproj", "{8BB7EB11-6F0C-4F76-9DED-8A58EB3864E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92C69F46-F8C5-4DA0-AEC2-0C5389913962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C69F46-F8C5-4DA0-AEC2-0C5389913962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C69F46-F8C5-4DA0-AEC2-0C5389913962}.Debug|x64.ActiveCfg = Debug|x64
+		{92C69F46-F8C5-4DA0-AEC2-0C5389913962}.Debug|x64.Build.0 = Debug|x64
+		{92C69F46-F8C5-4DA0-AEC2-0C5389913962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C69F46-F8C5-4DA0-AEC2-0C5389913962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92C69F46-F8C5-4DA0-AEC2-0C5389913962}.Release|x64.ActiveCfg = Release|x64
+		{92C69F46-F8C5-4DA0-AEC2-0C5389913962}.Release|x64.Build.0 = Release|x64
+		{8BB7EB11-6F0C-4F76-9DED-8A58EB3864E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB7EB11-6F0C-4F76-9DED-8A58EB3864E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB7EB11-6F0C-4F76-9DED-8A58EB3864E8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8BB7EB11-6F0C-4F76-9DED-8A58EB3864E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB7EB11-6F0C-4F76-9DED-8A58EB3864E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BB7EB11-6F0C-4F76-9DED-8A58EB3864E8}.Release|x64.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
